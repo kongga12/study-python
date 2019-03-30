@@ -1,0 +1,8 @@
+print("Hello World!")
+print("한번 더 안녕")
+print("이거 쓰는거 좋아.")
+print("재밌네.")
+print("Ya! Printing.")
+print("안 '그랬으면' 좋겠네.")
+print('여기 "손대지마"라고 했는데.')
+print("연습문제1. 한 줄더 출력하도록 스크립트 수정")
